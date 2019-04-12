@@ -11,7 +11,7 @@
   <entry>
     <title><![CDATA[采薇书院]]></title>
     <url>%2F2019%2F04%2F12%2F%E9%87%87%E8%96%87%2F</url>
-    <content type="text"><![CDATA[采薇书院1.3.0的细节优化。 对c int main(){翻页方式、亮度调节、工具栏设置、书籍分类 return main(); }等功能做了优化处理。]]></content>
+    <content type="text"><![CDATA[采薇书院1.3.0的细节优化。 对翻页方式、亮度调节、工具栏设置、书籍分类等功能做了优化处理。]]></content>
       <categories>
         <category>Project</category>
       </categories>
